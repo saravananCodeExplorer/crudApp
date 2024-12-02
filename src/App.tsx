@@ -6,8 +6,7 @@ function App() {
   return (
     <div className="App">
    <h1>header</h1>
-   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo blanditiis aut obcaecati harum, ad corrupti iusto! Quasi est esse, deserunt nulla qui dignissimos odit unde id vero provident atque ut?</p>
-    </div>
+  </div>
   );
 }
 
